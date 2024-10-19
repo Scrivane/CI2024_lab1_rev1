@@ -1,5 +1,4 @@
-Your project could benefit from better documentation , for example by adding some comments that explain what you are doing 
+Great job! Your alghhoritm is  a correct implementation of a SELF-ADAPTIVE alghhoritm for the setcover problem.
+Your project could benefit from better documentation , for example by adding some comments that explain what you are doing.
+A possible improvements is to avoid always doing 10000 steps, on smaller universe size you get same solution with a lot less steps, an idea is to change max number of step based on the universe size , smaller universes less steps , bigger ones more steps.
 
--2208240.9449952515
--2208013
--2262162.334454141
