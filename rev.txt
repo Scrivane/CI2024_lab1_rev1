@@ -1,5 +1,5 @@
-Great job! Your alghhoritm is  a correct implementation of a SELF-ADAPTIVE alghhoritm for the setcover problem.
+Great job! Your algorithm is  a correct implementation of a SELF-ADAPTIVE algorithm for the set cover problem.
 Your project could benefit from better documentation , for example by adding some comments that explain what you are doing.
-A possible improvement is to avoid always doing 10000 steps, on smaller universe size you get same results with less steps, an idea is to change max number of step based on the universe size , smaller universe less steps , bigger ones more steps.
+A possible improvement is to avoid always doing 10000 steps, on smaller universe size you get same results with less steps, an idea is to change max number of steps based on the universe size ( smaller universe less steps , bigger ones more steps).
 
 
